@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hlnb
 - 👀 I’m interested in all types of technology. 
-- 🌱 I’m currently learning or keeping up to date with HTML, CSS, JavaScript and WordPress.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning or keeping up to date with HTML, CSS, JavaScript and Static Site Generators
+
 - 📫 How to reach me email me via me@helenburgess.id.au or me@graphitedge.com.au. I am also on LinkedIn.
 
 <!---
